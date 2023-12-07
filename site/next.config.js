@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'Ubuntu with vivaldi.',
     icon: '/img/logo.svg',
     listUrl: 'https://bittles.github.io/workspaceregistry/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://github.com/bittles/workspaceregistry',
   },
   reactStrictMode: true,
   swcMinify: true,
