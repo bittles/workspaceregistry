@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Bittles Registry',
+    description: 'Ubuntu with vivaldi.',
     icon: '/img/logo.svg',
     listUrl: 'https://bittles.github.io/workspaceregistry/',
     contactUrl: 'https://kasmweb.com/support',
